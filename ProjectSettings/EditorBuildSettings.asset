@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/CreditsScreen.unity
+    guid: 06b039a78cdc6164fb10f9f4b1c224d3
+  - enabled: 1
+    path: Assets/Scenes/GenderChoice.unity
+    guid: 79f8ff616518dcb4c8c8b489217cfed2
+  - enabled: 1
+    path: Assets/Scenes/femCustomization.unity
+    guid: c1723b6db215c5d49a5d0d9db619963d
+  - enabled: 1
+    path: Assets/Scenes/mascCustomization.unity
+    guid: 678b10e730013934592065e590f60d52
+  m_configObjects: {}
